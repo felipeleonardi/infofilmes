@@ -1,0 +1,35 @@
+{
+  "name": "infofilmes",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.1",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "react": "^15.5.4",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-responsive-carousel": "^3.1.24",
+    "react-router": "^3.0.5",
+    "react-slick": "^0.14.11",
+    "react-transition-group": "^2.2.0",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0",
+    "remove-accents": "^0.4.0",
+    "semantic-ui-css": "^2.2.10",
+    "semantic-ui-react": "^0.68.2",
+    "slick-carousel": "^1.6.0",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.3.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
